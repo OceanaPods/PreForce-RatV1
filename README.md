@@ -7,7 +7,7 @@ BEST RAT IN THE YEAR 2023
   <i>Stealer written on Python, logs will be sent to your Discord channel using a webhook.</i>
 </p>
 
-[![Build Stealerium](https://github.com/Stealerium/Stealerium/actions/workflows/dotnet.yml/badge.svg)](https://github.com/Stealerium/Stealerium/actions/workflows/dotnet.yml)
+[![Build PreForce-Rat](https://github.com/OceanaPods/PreForce-RatV1)](https://github.com/OceanaPods/PreForce-RatV1)
 
 # 🪖 Disclaimer
 
